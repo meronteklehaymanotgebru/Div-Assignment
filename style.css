@@ -1,0 +1,29 @@
+body{
+    background-color:lightcyan;
+}
+.container{
+    border: dotted burlywood;
+    width: 80%;
+    height: 30%;
+    background-image: url(https://thumbs.dreamstime.com/z/quick-brown-fox-jump-over-lazy-dog-40764339.jpg);
+    background-size: 10px 20px;
+    margin: 10% 10%;
+    position: absolute;
+
+}
+   
+.content{
+    padding: 20px;
+    margin: 5%;
+    border: solid aqua;
+    word-break: normal;
+    font-weight: bolder;
+    font-style: italic;
+    font-size:xx-large;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color: beige;
+    text-shadow: 1px 1px rgba(7, 7, 7, 0.918);
+   
+}
+
